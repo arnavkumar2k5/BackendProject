@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "My First Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "Arnav Kumar",
+  "license": "ISC"
+}
